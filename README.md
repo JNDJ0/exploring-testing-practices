@@ -37,6 +37,6 @@ Com base nos dados obtidos, selecione uma prática ou dado de teste relevante e 
 
 ## Respostas
 
-**1. Repositório selecionado:** `<URL_DO_REPOSITÓRIO_AQUI>`
+**1. Repositório selecionado:** [prisma](https://github.com/prisma/prisma)
 
 **2. Explicação:** `<SUA_EXPLICAÇÃO_AQUI>`
